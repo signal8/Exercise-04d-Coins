@@ -1,6 +1,7 @@
-# Exercise-04c-Enemies
+# Exercise-04d-Coins
 
 ## Implementation
+Collectable coins!
 
 ## References
 
@@ -12,6 +13,7 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
+Full Platformer.
 
 ## Created by
-Nathan Mishler
+Levi Coffing, Master of Reality
